@@ -4,10 +4,10 @@
 ### <div align="center">I'm Şahin , a full-time full-stack developer 👨‍💻  and Assistant Trainer</div>  
   
 
-- 🔭 I’m currently working on Bilge Adam Akademi  
+- 🔭 I’m currently working on GraTas Solutions 
   
 
-- 🌱 I’m currently learning Docker , Redis , Microservices  
+- 🌱 I’m currently learning Docker , Redis , Microservices , VueJS 
   
 
 <br/>  
