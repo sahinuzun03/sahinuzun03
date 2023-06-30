@@ -1,13 +1,11 @@
 ![welcomeGif](https://user-images.githubusercontent.com/83523992/189546541-4d22e3c5-d5c9-4301-8ffb-2e340e9357c4.gif)
 
 
-### <div align="center">I'm Şahin , a full-time full-stack developer 👨‍💻  and Assistant Trainer</div>  
+### <div align="center">I'm Şahin , a full-time Backend developer 👨‍💻  and Assistant Trainer</div>  
   
 
-- 🔭 I’m currently working on GraTas Solutions 
+- 🔭 I’m currently working on Poslify 
   
-
-- 🌱 I’m currently learning Docker , Redis , Microservices , VueJS 
   
 
 <br/>  
@@ -32,25 +30,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sahinuzun03" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sahinuzun03" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sahinuzun03" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sahinuzun3" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>  
 
 
