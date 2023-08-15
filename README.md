@@ -1,10 +1,10 @@
 ![welcomeGif](https://user-images.githubusercontent.com/83523992/189546541-4d22e3c5-d5c9-4301-8ffb-2e340e9357c4.gif)
 
 
-### <div align="center">I'm Şahin , a full-time Backend developer 👨‍💻  and Assistant Trainer</div>  
+### <div align="center">I'm Şahin , a full-time Backend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Poslify 
+- 🔭 I’m currently working on Poslify - Setur
   
   
 
